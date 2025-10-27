@@ -19,7 +19,7 @@ cd Full-Engineer-Technical-Test
 ```bash
 cd backend
 npm install
-npm run dev
+node server.js
 ```
 
 The API will start on **http://localhost:3000**
