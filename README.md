@@ -11,7 +11,7 @@ Built with **Node.js (Express)** for the backend and **Vue 3 + Vite + TailwindCS
 
 ```bash
 git clone https://github.com/SaintRoberto/technical-test.git
-cd task-manager
+cd Full-Engineer-Technical-Test
 ```
 
 ### 2. Run the Backend (Node.js)
